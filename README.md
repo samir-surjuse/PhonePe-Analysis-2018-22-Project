@@ -1,6 +1,6 @@
 # PhonePe-Analysis-2018-22-Project
 📊 Power BI dashboard analyzing PhonePe transaction data (2018–2022) with KPIs, geo-visualization, and YoY growth insights.
-📊 PhonePe Analysis Dashboard (Power BI)
+
 
 This project presents an interactive data analysis dashboard built using Power BI to explore PhonePe transaction data from 2018 to 2022. The dashboard provides insights into transaction trends, user growth, and regional performance across India.
 
@@ -18,6 +18,7 @@ This project presents an interactive data analysis dashboard built using Power B
 
 🎛️ Interactive Filters (Year, Quarter, State, District, Transaction Type)
 
+
 🛠️ Tools & Technologies
 
 Power BI (Data Visualization)
@@ -25,6 +26,7 @@ Power BI (Data Visualization)
 DAX (Data Analysis Expressions)
 
 Power Query (Data Cleaning & Transformation)
+
 
 📊 Key Insights
 
@@ -48,9 +50,11 @@ Project Report (PDF)
 
 Dashboard Screenshots
 
+
 🎯 Objective
 
 To analyze large-scale transaction data and derive actionable insights using interactive visualizations and business intelligence techniques.
+
 
 💼 Skills Demonstrated
 
@@ -62,10 +66,13 @@ DAX Calculations
 
 Problem Solving & Data Cleaning
 
+
 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+(<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/d1232d3b-f852-43ac-a03b-33e0a2d59294" />
+)
 
-📌 Conclusion
+
+📌 **Conclusion**
 
 This project demonstrates how Power BI can be used to convert raw data into meaningful insights, enabling better understanding of digital payment trends and user behavior.
